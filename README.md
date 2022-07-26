@@ -1,3 +1,3 @@
-i am [test]
+This is my [random value] located somewhere in my Markdown document.
 
-  [test]: "E"
+[random value]: variable value
